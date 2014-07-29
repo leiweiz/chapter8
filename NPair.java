@@ -82,7 +82,7 @@ public class NPair{
         int num = 5;
         //Set<String> al = hshowPair(num);
         //Set<String> al = generateParens1(num);
-        int count = 0;
+        //int count = 0;
         //for ( String str : al ){
         //    count++;
         //    System.out.println(count + " " + str);
